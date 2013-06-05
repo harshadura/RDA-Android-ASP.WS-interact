@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">RDA Android</string>
+   
+	<string name="aboutus">RDA Android App by. \n2nd year IT batch SLIIT metro</string>
+  
+	<string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+
+        <string name="show_employees">Show Employees</string>
+        <string name="check_single">Check Single</string>
+        <string name="update_ws">Update Web Service</string>
+        
+</resources>
